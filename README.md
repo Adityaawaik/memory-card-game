@@ -1,5 +1,7 @@
 # React + Vite
 
+# Play here : https://adityaawaik.github.io/memory-card-game/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
