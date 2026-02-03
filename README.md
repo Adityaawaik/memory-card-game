@@ -1,6 +1,6 @@
 # React + Vite
 
-# Play here : https://adityaawaik.github.io/memory-card-game/
+# <a href="https://adityaawaik.github.io/memory-card-game/"> Play Here </a>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
